@@ -8,7 +8,7 @@ on:
         required: true
         default: 'Marcello21heo'
       agent_description:
-        description: 'lokie'
+        description: 'Marcello21heo'
         required: true
         default: 'Marcello21heo AI Agent'
 
